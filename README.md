@@ -56,7 +56,6 @@ Created a structured risk register containing:
 ---
 
 ## 📎 Files Included
-/policy-pack/
 ├── Acceptable_Use_Policy.docx
 ├── Incident_Response_Policy.docx
 ├── Remote_Access_Policy.docx

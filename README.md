@@ -56,11 +56,11 @@ Created a structured risk register containing:
 ---
 
 ## 📎 Files Included
-├── Acceptable_Use_Policy.docx
-├── Incident_Response_Policy.docx
-├── Remote_Access_Policy.docx
-├── Risk_Register.xlsx
-└── README.md
+-  Acceptable_Use_Policy.docx
+-  Incident_Response_Policy.docx R
+-  Remote_Access_Policy.docx
+-  Risk_Register.xlsx
+-  README.md
 
 
 ---

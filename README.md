@@ -60,6 +60,7 @@ Created a structured risk register containing:
 -  Incident_Response_Policy.docx 
 -  Remote_Access_Policy.docx
 -  Risk_Register.xlsx
+-  Responsible_AI_Use_Policy.docx
 -  README.md
 
 

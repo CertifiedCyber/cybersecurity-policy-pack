@@ -78,7 +78,7 @@ Created a structured risk register containing:
 ## 📌 Why This Matters
 
 Most entry-level cybersecurity professionals neglect the governance side of security. This project demonstrates practical understanding of how organizations document, communicate, and manage security standards—skills critical in SOC 2, ISO 27001, or internal audit contexts.
-
+Along with showing professional communication skills and being able to write a proper document that meets the criteria that is necessary.
 ---
 
 ## 📚 Related Resources

@@ -17,7 +17,7 @@ This self-initiated cybersecurity governance project simulates the responsibilit
 
 | Tool/Framework           | Purpose                             |
 |--------------------------|-------------------------------------|
-| **NIST Cybersecurity Framework (CSF)** | Controls mapping, structure      |
+| **NIST Cybersecurity Framework (CSF)** | Controls mapping, structure |
 | **ISO/IEC 27001**        | Policy alignment and best practices |
 | **Excel / Google Sheets**| Risk register creation              |
 | **MS Word / Markdown**   | Policy documentation                |
